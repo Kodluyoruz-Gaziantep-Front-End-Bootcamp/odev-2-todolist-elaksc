@@ -8,7 +8,7 @@
 
 ## Homework Description
 
-``To Do List project with React ```
+```To Do List project with React ```
 
 
 ## Author
